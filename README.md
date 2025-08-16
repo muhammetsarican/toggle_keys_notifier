@@ -1,6 +1,14 @@
 # Toggle Keys Notifier
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Toggle keys notifier is a gui app that shows you a box when toggle keys opened or closed
+
+# Windows
+
+### _Coming Soon..._
+
+# Linux
 
 ## Running the project at startup automatically as a service
 
@@ -77,6 +85,10 @@ Check logs:
 ```bash
 journalctl --user -u toggle_keys_notifier.service --no-pager
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
